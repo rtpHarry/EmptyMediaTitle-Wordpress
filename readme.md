@@ -5,8 +5,9 @@ instead of injecting the filename.
 Often the filename is not optimised. It can leak out in the form of gallery 
 captions or alt/title tags and look messy.
 
-This plug defaults your image uploads to an empty string, so you can be sure
-if a caption is going to be displayed, that it is one you have set yourself.
+This plugin defaults your image uploads to an empty string, so you can be 
+sure if a caption is going to be displayed, that it's one you have set 
+yourself.
 
 # Usage
 Install the plugin and activate it.
